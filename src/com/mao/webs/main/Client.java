@@ -2,7 +2,7 @@ package com.mao.webs.main;
 /**
  * ·şÎñÃ»¿ª°¡
  * @author haiyi
- * ¹ş¹ş¹ş¹ş¹ş
+ * ¹ş¹ş¹ş¹ş¹şÎûÎûÎû
  */
 public class Client {
 	public static void main(String args []){
