@@ -2,7 +2,7 @@ package com.mao.webs.main;
 /**
  * 捲暦短蝕亜
  * @author haiyi
- * 込込込込込細細細細
+ * 込込込込込煉煉煉
  */
 public class Client {
 	public static void main(String args []){
